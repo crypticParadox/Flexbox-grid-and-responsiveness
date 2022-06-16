@@ -1,1 +1,1 @@
-# Huddle-mockup
+# Flexbox, Grid and Responsiveness
