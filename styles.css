@@ -19,6 +19,9 @@ body {
   height: 100vh;
 }
 
+header{
+  margin: 10px;
+}
 section {
   /* min-height: 100vh; */
   padding: 2rem;
